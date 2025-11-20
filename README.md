@@ -1,6 +1,7 @@
 # 📚 Sistema de Gerenciamento de Biblioteca
 
 Sistema completo desenvolvido em Python com interface gráfica Tkinter e banco de dados SQLite.
+É um sistema para cadastrar e ter o controle de livros de sua preferência.
 
 ## 🚀 Funcionalidades
 
