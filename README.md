@@ -23,6 +23,11 @@ Sistema completo desenvolvido em Python com interface gráfica Tkinter e banco d
 - Tkinter
 - SQLite
 
+PARA ACESSAR O SISTEMA, BAIXE TODOS OS ARQUIVOS E ACESSE O TERMINAL DO NOTEBOOK UTILIZANDO OS SEGUINTES CÓDIGOS:
+
+cd projeto_biblioteca (Para acessar a pasta do projeto)
+python3 frontend/app.py (Para acessar o sistema)
+
 ## 👨‍💻 Autor
 
 [Pedro Souza](https://github.com/Phss851/Sistema-de-Biblioteca_python)
